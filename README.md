@@ -8,24 +8,24 @@
 
 ## ✅ Qualidade e Testes
 
-**- Testes Manuais (Funcionais, Exploratórios, Regressão, Smoke)**
-**- Testes Automatizados com Cypress e Postman**
-**- Escrita de Casos de Teste e Planos de Teste (TestRail, XRay)**
-**- Criação e execução de Ciclos de Teste**
-**- Validação de requisitos, protótipos e fluxos UX**
-**- Report de bugs com clareza e reprodutibilidade**
+- **Testes Manuais (Funcionais, Exploratórios, Regressão, Smoke)**
+- **Testes Automatizados com Cypress e Postman**
+- **Escrita de Casos de Teste e Planos de Teste (TestRail, XRay)**
+- **Criação e execução de Ciclos de Teste**
+- **Validação de requisitos, protótipos e fluxos UX**
+- **Report de bugs com clareza e reprodutibilidade**
 
 ---
 
 ## 🔁 Métodos Ágeis
-**- Experiência com Scrum e Kanban**
-**- Planejamento e acompanhamento de tarefas com Jira**
-**- Atuação como QA, Product Owner e Scrum Master em projetos acadêmicos**
-**- Priorização de backlog, refinamento de histórias e definição de critérios de aceite**
+- **Experiência com Scrum e Kanban**
+- **Planejamento e acompanhamento de tarefas com Jira**
+- **Atuação como QA, Product Owner e Scrum Master em projetos acadêmicos**
+- **Priorização de backlog, refinamento de histórias e definição de critérios de aceite**
 
 ---
 
 ## 🌐 Redes Sociais
 
-**- 💼 LinkedIn: https://www.linkedin.com/in/matheuspereirasalvador/**
-**- 📩 Email: matheuspereirasalvador14@gmail.com****
+- **💼 LinkedIn: https://www.linkedin.com/in/matheuspereirasalvador/**
+- **📩 Email: matheuspereirasalvador14@gmail.com****
