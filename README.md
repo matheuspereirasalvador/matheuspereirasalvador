@@ -13,12 +13,11 @@ Atuo com testes manuais e automatizados, participando de projetos acadêmicos e 
 - Escrita de Casos de Teste e Planos de Teste (TestRail, XRay)  
 - Criação e execução de Ciclos de Teste  
 - Validação de requisitos, protótipos e fluxos UX  
-- Report de bugs com clareza e reprodutibilidade
+- Report de bugs com clareza e reprodutibilidade 
 
 ---
 
 ## 🔁 Métodos Ágeis
-
 - Experiência com Scrum e Kanban  
 - Planejamento e acompanhamento de tarefas com Jira  
 - Atuação como QA, Product Owner e Scrum Master em projetos acadêmicos  
@@ -28,5 +27,5 @@ Atuo com testes manuais e automatizados, participando de projetos acadêmicos e 
 
 ## 🌐 Redes Sociais
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- 🧪 [uTest](https://www.utest.com/your-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheuspereirasalvador)  
+- ✉️ [Email](matheuspereirasalvador14@gmail.com)
