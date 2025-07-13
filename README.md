@@ -1,8 +1,8 @@
 ## 👋 Sobre mim
 
-Olá! Sou Matheus Pereira Salvador, estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos, com foco em Qualidade de Software, Testes e Métodos Ágeis. Meu objetivo é garantir que sistemas sejam não apenas funcionais, mas confiáveis, acessíveis e centrados no usuário.
+Olá! Sou Matheus Pereira Salvador, estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos, com foco em Qualidade de Software, Testes e Métodos Ágeis. Meu objetivo é garantir que sistemas sejam não apenas funcionais, mas confiáveis, acessíveis e centrados no usuário. Atuo com testes manuais e automatizados, participando de projetos acadêmicos e plataformas de crowdtesting como a uTest. Tenho conhecimento em todo o ciclo de QA, desde a análise de requisitos até a entrega de relatórios com evidências de bugs e sugestões de melhoria.
 
-Atuo com testes manuais e automatizados, participando de projetos acadêmicos e plataformas de crowdtesting como a uTest. Tenho conhecimento em todo o ciclo de QA, desde a análise de requisitos até a entrega de relatórios com evidências de bugs e sugestões de melhoria.
+Atualmente, sou estagiário de testes na Interasoft, onde atuo com validação de funcionalidades, execução de testes manuais e registro de evidências para os sistemas da empresa. Tenho contato direto com análise de requisitos, elaboração de casos de teste e acompanhamento de correções junto à equipe de desenvolvimento.
 
 ---
 
@@ -27,5 +27,5 @@ Atuo com testes manuais e automatizados, participando de projetos acadêmicos e 
 
 ## 🌐 Redes Sociais
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheuspereirasalvador)  
-- ✉️ [Email](matheuspereirasalvador14@gmail.com)
+- 💼 [LinkedIn]: https://www.linkedin.com/in/matheuspereirasalvador/
+- 📩 [Email]: matheuspereirasalvador14@gmail.com
