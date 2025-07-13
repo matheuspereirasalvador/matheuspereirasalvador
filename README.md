@@ -20,7 +20,5 @@ Atuo com testes manuais e automatizados, participando de projetos acadêmicos e 
     Priorização de backlog, refinamento de histórias e definição de critérios de aceite
     
 🌐 Redes Sociais
-
     💼 LinkedIn
-
     🧪 uTest
