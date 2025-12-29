@@ -1,30 +1,15 @@
-## 👋 Sobre mim
+# Hi 👋, I'm Matheus Pereira Salvador
 
-**Olá! Sou Matheus Pereira Salvador, estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos, com foco em Qualidade de Software, Testes e Métodos Ágeis. Meu objetivo é garantir que sistemas sejam não apenas funcionais, mas confiáveis, acessíveis e centrados no usuário. Atuo com testes manuais e automatizados, participando de projetos acadêmicos e plataformas de crowdtesting como a uTest. Tenho conhecimento em todo o ciclo de QA, desde a análise de requisitos até a entrega de relatórios com evidências de bugs e sugestões de melhoria.**
+### QA Analyst | Python | Selenium | API Testing 
 
-**Atualmente, sou estagiário de testes na Interasoft, onde atuo com validação de funcionalidades, execução de testes manuais e registro de evidências para os sistemas da empresa. Tenho contato direto com análise de requisitos, elaboração de casos de teste e acompanhamento de correções junto à equipe de desenvolvimento.**
+- 🌱 I'm currently learning **Mobile Automation with Appium & CI/CD Pipelines**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/matheuspereirasalvador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="matheuspereirasalvador" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheuspereirasalvador/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheuspereirasalvador/" height="30" width="40" /></a>
+</p>
 
-## ✅ Qualidade e Testes
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a></p>
 
-- **Testes Manuais (Funcionais, Exploratórios, Regressão, Smoke)**
-- **Testes Automatizados com Cypress e Postman**
-- **Escrita de Casos de Teste e Planos de Teste**
-- **Criação e execução de Ciclos de Teste**
-- **Validação de requisitos, protótipos e fluxos UX**
-- **Report de bugs com clareza e reprodutibilidade**
-
----
-
-## 🔁 Métodos Ágeis
-- **Experiência com Scrum e Kanban**
-- **Planejamento e acompanhamento de tarefas com Jira**
-- **Priorização de backlog, refinamento de histórias e definição de critérios de aceite**
----
-
-## 🌐 Entre em contato
-
-- **💼 LinkedIn: https://www.linkedin.com/in/matheuspereirasalvador/**
-- **📩 Email: matheuspereirasalvador14@gmail.com**
-- **📞 Telefone: (55) 14991212815**
